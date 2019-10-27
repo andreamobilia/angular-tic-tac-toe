@@ -5,4 +5,4 @@
 
 	base = "./"
 	publish = "./dist/myapp/"
-	command = "npm run build:prod"
+	command = "npm run build"
